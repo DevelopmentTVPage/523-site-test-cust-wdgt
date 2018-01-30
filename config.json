@@ -1,0 +1,15 @@
+{
+    "title": "new site test 2",
+    "baseURL": "https:\/\/site.test.cust.wdgt",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "cust.wdgt"
+    }
+}
